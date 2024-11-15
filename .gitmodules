@@ -1,0 +1,3 @@
+[submodule "dlcv-fa24-mps"]
+	path = dlcv-fa24-mps
+	url = https://gitlab.engr.illinois.edu/saurabhg/dlcv-fa24-mps.git
